@@ -1,5 +1,7 @@
 # List of certain useful starter packs from beginner level to senior level and some codes games.
 
+<b>2 QUOTES </b><i> to that the journey with.</i> 
+
 The food you eat, the clothes you wear, etc.. is a proof that we trust each other world wide then why can't we help each other to suceed. (by [Alec Mabhiza Chirawu](https://github.com/Captaincheq/)).
 
 Help a friend today and a friend will help you one day. (by [Alec Mabhiza Chirawu](https://github.com/Captaincheq/))
